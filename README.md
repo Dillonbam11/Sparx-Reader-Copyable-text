@@ -8,6 +8,6 @@ It works on most browsers apart from Chrome Mobile because Javascript is not all
 
 1. Make a bookmark or favourite for this page
 2. Name it something that is not suspicious e.g. Sparx Reader
-3. Edit this bookmark / favourite and paste the main.js in the URL field.
+3. Edit this bookmark / favourite and paste the COPYABLESPARXREADER contents in the URL field.
 4. Run the bookmark on the Sparx Reader website.
 5. Enjoy copyable sparx reader!! 😁😁
