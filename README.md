@@ -1,0 +1,1 @@
+# Sparx-Reader-Copyable-text
